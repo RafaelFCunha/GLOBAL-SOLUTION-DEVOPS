@@ -1,0 +1,242 @@
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.csproj.AssemblyReference.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.AssemblyInfoInputs.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.AssemblyInfo.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.csproj.CoreCompileInputs.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.RazorAssemblyInfo.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.RazorAssemblyInfo.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\GS_EAP.exe
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\GS_EAP.deps.json
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\GS_EAP.runtimeconfig.json
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\GS_EAP.runtimeconfig.dev.json
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\GS_EAP.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\GS_EAP.pdb
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\GS_EAP.Views.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\GS_EAP.Views.pdb
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\GS_EAP.styles.css
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\GS_EAP.StaticWebAssets.Manifest.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.TagHelpers.input.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.TagHelpers.output.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.RazorCoreGenerate.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Usuarios\CriarUsuario.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Usuarios\ListaUsuarios.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Veiculos\CriarVeiculo.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Veiculos\ListaVeiculos.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.RazorTargetAssemblyInfo.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.RazorTargetAssemblyInfo.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.Views.pdb
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.csproj.CopyComplete
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\refint\GS_EAP.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.pdb
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\GS_EAP.genruntimeconfig.cache
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\GS_EAP.dll
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Parceiros\CriarParceiro.cshtml.g.cs
+C:\Users\Derik\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Parceiros\ListaParceiros.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.csproj.AssemblyReference.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.AssemblyInfoInputs.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.AssemblyInfo.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.csproj.CoreCompileInputs.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorAssemblyInfo.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorAssemblyInfo.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\refint\GS_EAP.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.pdb
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\appsettings.json
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.exe
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.deps.json
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.runtimeconfig.json
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.runtimeconfig.dev.json
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.pdb
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.Views.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.Views.pdb
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\scopedcss\bundle\GS_EAP.styles.css
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\staticwebassets\GS_EAP.StaticWebAssets.Manifest.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.TagHelpers.input.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.TagHelpers.output.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorCoreGenerate.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Parceiros\CriarParceiro.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Parceiros\ListaParceiros.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Usuarios\CriarUsuario.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Usuarios\ListaUsuarios.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Veiculos\CriarVeiculo.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Veiculos\ListaVeiculos.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorTargetAssemblyInfo.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorTargetAssemblyInfo.cs
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.Views.pdb
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.csproj.CopyComplete
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.genruntimeconfig.cache
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\obj\Debug\net5.0\ref\GS_EAP.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.DirectoryServices.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Derik\source\repos\GS_EAP\GS_EAP\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\appsettings.Development.json
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\appsettings.json
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.exe
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.deps.json
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.runtimeconfig.json
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.runtimeconfig.dev.json
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\ref\GS_EAP.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.pdb
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.Views.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\GS_EAP.Views.pdb
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Humanizer.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\MySql.Data.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\ZstdNet.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\MySqlConnector.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Oracle.EntityFrameworkCore.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.DirectoryServices.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Security.AccessControl.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.csproj.AssemblyReference.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.AssemblyInfoInputs.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.AssemblyInfo.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.csproj.CoreCompileInputs.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.MvcApplicationPartsAssemblyInfo.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorAssemblyInfo.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorAssemblyInfo.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\staticwebassets\GS_EAP.StaticWebAssets.Manifest.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\staticwebassets\GS_EAP.StaticWebAssets.xml
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\scopedcss\bundle\GS_EAP.styles.css
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.TagHelpers.input.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.TagHelpers.output.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorCoreGenerate.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Parceiros\CriarParceiro.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Parceiros\ListaParceiros.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Usuarios\CriarUsuario.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Usuarios\ListaUsuarios.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Veiculos\CriarVeiculo.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\Veiculos\ListaVeiculos.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorTargetAssemblyInfo.cache
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.RazorTargetAssemblyInfo.cs
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.Views.pdb
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.csproj.CopyComplete
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\ref\GS_EAP.dll
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.pdb
+D:\Faculdade FIAP\2022\2 semestre\c#\prova\GS_EAP\GS_EAP\obj\Debug\net5.0\GS_EAP.genruntimeconfig.cache

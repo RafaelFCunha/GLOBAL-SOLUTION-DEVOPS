@@ -1,0 +1,27 @@
+﻿@model List<GS_EAP.Models.Usuarios.Usuarios>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                Nome
+            </th>
+            <th>
+                Email
+            </th>
+        </tr>
+    </thead>
+    @foreach (var usuario in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(usuario.NomUsuario, "EditarUsuario", "Usuarios", new { IdUsuario = usuario.IdUsuario})
+            </td>
+            <td>
+                @usuario.NomEmail
+            </td>
+        </tr>
+    }
+</table>
+
+@Html.ActionLink("Adicionar Novo", "CriarUsuario", "Usuarios",null, new {@class = "btn btn-secondary ml-1"})

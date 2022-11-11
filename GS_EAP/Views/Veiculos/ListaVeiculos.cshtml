@@ -1,0 +1,27 @@
+﻿@model List<GS_EAP.Models.Veiculos.Veiculos>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                Carro
+            </th>
+            <th>
+                Marca
+            </th>
+        </tr>
+    </thead>
+    @foreach (var veiculo in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(veiculo.NomModelo, "EditarVeiculo", "Veiculos", new { IdVeiculo = veiculo.IdVeiculo})
+            </td>
+            <td>
+                @veiculo.NomMarca
+            </td>
+        </tr>
+    }
+</table>
+
+@Html.ActionLink("Adicionar Novo", "CriarVeiculo", "Veiculos",null, new {@class = "btn btn-secondary ml-1"})

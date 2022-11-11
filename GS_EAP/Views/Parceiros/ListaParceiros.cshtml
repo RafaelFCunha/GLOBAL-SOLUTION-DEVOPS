@@ -1,0 +1,27 @@
+﻿@model List<GS_EAP.Models.Parceiros.Parceiros>
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                Empresa
+            </th>
+            <th>
+                CNPJ
+            </th>
+        </tr>
+    </thead>
+    @foreach (var parceiro in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(parceiro.NomParceiro, "EditarParceiro", "Parceiros", new { IdParceiro = parceiro.IdParceiro})
+            </td>
+            <td>
+                @parceiro.NumCNPJ
+            </td>
+        </tr>
+    }
+</table>
+
+@Html.ActionLink("Adicionar Novo", "CriarParceiro", "Parceiros",null, new {@class = "btn btn-secondary ml-1"})

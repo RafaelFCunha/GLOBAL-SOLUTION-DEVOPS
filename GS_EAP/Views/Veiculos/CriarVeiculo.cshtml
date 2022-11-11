@@ -1,0 +1,44 @@
+﻿@model GS_EAP.Models.Veiculos.Veiculos
+@using (Html.BeginForm("CriarVeiculo", "Veiculos", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-row">
+        <input asp-for="IdVeiculo" hidden />
+        <div class="form-group col-md-2">
+            <label for="NomMarca">Marca</label>
+            <input asp-for="NomMarca" required class="form-control" placeholder="Fiat" />
+        </div>
+        <div class="form-group col-md-4">
+            <label for="NomModelo">Modelo do Veiculo</label>
+            <input asp-for="NomModelo" required class="form-control" placeholder="Toro" />
+        </div>
+        <div class="form-group col-md-2">
+            <label for="NumPlaca">Placa</label>
+            <input asp-for="NumPlaca" required class="form-control" placeholder="BEE2A18" />
+        </div>
+        <div class="form-group col-md-4">
+            <label for="NomUsuario">Usuário</label>
+            <select asp-for="IdUsuario" required class="form-control">
+                <option selected>Escolha...</option>
+                @foreach (var usuario in ViewBag.usuarios)
+                {
+                    <option value="@usuario.IdUsuario"> @usuario.NomUsuario </option>
+                }
+            </select>
+        </div>
+
+        
+    </div>
+
+    @if (Model.IdVeiculo != 0)
+    {
+        <button class="btn btn-primary" asp-controller="Veiculos" asp-action="EditarVeiculoPost">Salvar</button>
+        @Html.ActionLink("Excluir", "ExcluirVeiculo", "Veiculos",new{IdVeiculo=Model.IdVeiculo}, new {@class = "btn btn-danger"})
+
+    }
+    else
+    {
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    }
+    @Html.ActionLink("Voltar", "Index", "Veiculos",null, new {@class = "btn btn-secondary ml-1"})
+
+}

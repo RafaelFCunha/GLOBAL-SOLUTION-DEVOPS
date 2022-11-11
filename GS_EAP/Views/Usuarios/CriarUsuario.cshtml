@@ -1,0 +1,64 @@
+﻿@model GS_EAP.Models.Usuarios.Usuarios
+@using (Html.BeginForm("CriarUsuario", "Usuarios", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-row">
+        <input asp-for="IdUsuario" hidden /> 
+        <div class="form-group col-md-6">
+            <label for="NomUsuario">Nome</label>
+            <input asp-for="NomUsuario" required class="form-control" placeholder="Nome" />
+        </div>
+        <div class="form-group col-md-3">
+            <label for="NumCPF">CPF</label>
+            <input asp-for="NumCPF" required class="form-control" placeholder="111.222.333-44" />
+        </div>
+        <div class="form-group col-md-3">
+            <label for="NumTelefone">Telefone</label>
+            <input asp-for="NumTelefone" required class="form-control" placeholder="(11) 11111-1111" />
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="NomEmail">Email</label>
+            <input asp-for="NomEmail" type="email" required class="form-control" placeholder="Email" />
+        </div>
+        <div class="form-group col-md-6">
+            <label for="NomSenha">Senha</label>
+            <input asp-for="NomSenha" type="password" required class="form-control" placeholder="Senha" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="NomLogradouro">Endereço</label>
+        <input asp-for="NomLogradouro" class="form-control" placeholder="Rua Roque José Número 2000" />
+    </div>
+    <div class="form-group">
+        <label for="NomComplemento">Complemento</label>
+        <input asp-for="NomComplemento" class="form-control" id="inputAddress2" placeholder="Bloco / Apto" />
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="inputCity">Cidade</label>
+            <input asp-for="NomCidade" class="form-control" />
+        </div>
+        <div class="form-group col-md-4">
+            <label for="NomEstado">Estado</label>
+            <select asp-for="NomEstado" class="form-control">
+                <option selected>Escolha...</option>
+                <option>...</option>
+            </select>
+        </div>
+        <div class="form-group col-md-2">
+            <label for="NomCEP">CEP</label>
+            <input asp-for="NomCEP" class="form-control" />
+        </div>
+    </div>
+
+    @if(Model.IdUsuario != 0){
+        <button class="btn btn-primary" asp-controller="Usuarios" asp-action="EditarUsuarioPost">Salvar</button>
+        @Html.ActionLink("Excluir", "ExcluirUsuario", "Usuarios",new{IdUsuario=Model.IdUsuario}, new {@class = "btn btn-danger"})
+
+    } else {
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    }
+    @Html.ActionLink("Voltar", "Index", "Usuarios",null, new {@class = "btn btn-secondary ml-1"})
+
+}
